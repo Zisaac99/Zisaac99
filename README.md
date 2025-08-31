@@ -22,3 +22,13 @@
     <img src="https://skillicons.dev/icons?i=java,js,python,react,spring,nodejs,express,postgresql,docker,git&perline=8" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  [![Zisaac99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zisaac99)](https://github.com/Zisaac99/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisaac99)](https://github.com/Zisaac99/github-readme-stats)
+</p>
