@@ -26,7 +26,8 @@
 ### 📊 My GitHub Journey
 
 <div align="center">
-  [![Zisaac99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zisaac99)](https://github.com/Zisaac99/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisaac99)](https://github.com/Zisaac99/github-readme-stats)
+
+| ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zisaac99) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisaac99) |
+| --- | --- |
+
 </div>
